@@ -2,7 +2,7 @@
 ## With UI Shell Theme Overrides
 > A simple Sveltekit app boilerplate that uses PostCSS and allows for global CSS overrides in the src/styles/app.css file.
 
-![Sveltekit]({"https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"})
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)"/>
 
 ## How To Use
 Clone the repo
