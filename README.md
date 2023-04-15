@@ -8,8 +8,14 @@ The current version of Carbon Components Svelte ( https://github.com/carbon-desi
 
 ```
 git clone https://github.com/panagapko/svelte-carbon-boilerplate.git svelte-carbon-boilerplate
+```
+```
 cd svelte-carbon-boilerplate
+```
+```
 npm install
+```
+```
 npm run dev
 ```
 
