@@ -1,0 +1,16 @@
+@import "carbon-components-svelte/css/all.css";
+
+/* Custom CSS Theme Overrides */
+
+/* Carbon UI Header */
+.bx--header {
+    background-color: #152935;
+}
+
+/* Carbon UI Side Navigation */
+
+
+.bx--side-nav {
+    background-color: #e8e8e8;
+}
+
