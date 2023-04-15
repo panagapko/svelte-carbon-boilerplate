@@ -1,4 +1,5 @@
-# Carbon Components Sveltekit w/ UIShell Theme Overrides
+# Carbon Components Sveltekit
+## With UI Shell Theme Overrides
 > A simple Sveltekit app boilerplate that uses PostCSS and allows for global CSS overrides in the src/styles/app.css file.
 
 ![Sveltekit]({https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white})
