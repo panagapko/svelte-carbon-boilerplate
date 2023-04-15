@@ -4,6 +4,8 @@ The current version of Carbon Components Svelte ( https://github.com/carbon-desi
 
 <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"/> <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"/>
 
+<img src="screenshot.png">
+
 ## How To Use
 
 ```
